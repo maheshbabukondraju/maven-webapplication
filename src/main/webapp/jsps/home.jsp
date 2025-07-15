@@ -80,7 +80,7 @@
         <p><strong>KK FUNDA</strong><br>
         Martha Halli, Bangalore<br>
         +91-9676831734<br>
-        <a href="mailto:kkeducationblr@gmail.com">Mail to KK FUNDA</a></p>
+        <a href="mailto:kkeducationblr@gmail.com">Mail to KK FUNDA DevOps</a></p>
     </div>
 
     <p>Service: <a href="services/employee/getEmployeeDetails">Get Employee Details</a></p>
